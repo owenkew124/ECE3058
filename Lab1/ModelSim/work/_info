@@ -1,0 +1,157 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/rtl/ModelSim
+vcontrol
+Z1 !s110 1644185134
+!i10b 1
+!s100 <0goLKa7]^A]YD1Kl>Xne2
+I0gI[O03LhTIFS1e@1XX510
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1644182455
+8C:/rtl/control.v
+FC:/rtl/control.v
+L0 8
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1644185134.000000
+!s107 C:/rtl/control.v|
+!s90 -reportprogress|300|-work|work|C:/rtl/control.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vdecode
+R1
+!i10b 1
+!s100 5Pik1LC^<k49]m0]QU]XQ2
+IPS0^^c7UDSHd]L2@AAgY;2
+R2
+R0
+w1644183472
+8C:/rtl/decode.v
+FC:/rtl/decode.v
+Z7 L0 10
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/rtl/decode.v|
+!s90 -reportprogress|300|-work|work|C:/rtl/decode.v|
+!i113 1
+R5
+R6
+vexecute
+R1
+!i10b 1
+!s100 _MLn8zJ2fC5<@O6G[Q4gm1
+ISLi8O>bGA@>M1N7h]I@@J3
+R2
+R0
+w1644184961
+8C:/rtl/execute.v
+FC:/rtl/execute.v
+L0 8
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/rtl/execute.v|
+!s90 -reportprogress|300|-work|work|C:/rtl/execute.v|
+!i113 1
+R5
+R6
+vfetch
+Z8 !s110 1644185135
+!i10b 1
+!s100 jRgG2z9K2n_EWSj3n@1k01
+I<MB05Q@HX4lD7S74K887R2
+R2
+R0
+w1644185127
+8C:/rtl/fetch.v
+FC:/rtl/fetch.v
+R7
+R3
+r1
+!s85 0
+31
+Z9 !s108 1644185135.000000
+!s107 C:/rtl/fetch.v|
+!s90 -reportprogress|300|-work|work|C:/rtl/fetch.v|
+!i113 1
+R5
+R6
+vmemory
+R8
+!i10b 1
+!s100 DnkaJM@=^GiAWf`ODJWfn0
+IQ@o^Ub<eUg^DU0UEz4SR80
+R2
+R0
+Z10 w1643923540
+8C:/rtl/memory.v
+FC:/rtl/memory.v
+L0 7
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/rtl/memory.v|
+!s90 -reportprogress|300|-work|work|C:/rtl/memory.v|
+!i113 1
+R5
+R6
+vmips
+R8
+!i10b 1
+!s100 ciCGOL9Z664zBX=;2TX=H0
+IOCH8m706PCdkGagno621Q0
+R2
+R0
+w1644183660
+8C:/rtl/mips.v
+FC:/rtl/mips.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/rtl/mips.v|
+!s90 -reportprogress|300|-work|work|C:/rtl/mips.v|
+!i113 1
+R5
+R6
+vmips_tb
+R8
+!i10b 1
+!s100 o[R6YQBiZ^]<7KDbl[4JE2
+I8A7lBDGF65O;n2?9[6@o10
+R2
+R0
+R10
+8C:/rtl/mips_tb.v
+FC:/rtl/mips_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/rtl/mips_tb.v|
+!s90 -reportprogress|300|-work|work|C:/rtl/mips_tb.v|
+!i113 1
+R5
+R6
