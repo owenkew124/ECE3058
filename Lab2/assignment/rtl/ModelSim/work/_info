@@ -1,0 +1,260 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Lab2/assignment/rtl/ModelSim
+vCONTROL
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1645398860
+!i10b 1
+!s100 go>YJM]36G[ih?f9]PRf33
+I7B2[i[GNUH:m@jgU0CWmJ1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 CONTROL_sv_unit
+S1
+R0
+Z4 w1644935434
+8C:/Lab2/assignment/rtl/CONTROL.sv
+FC:/Lab2/assignment/rtl/CONTROL.sv
+Z5 L0 44
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1645398860.000000
+!s107 C:/Lab2/assignment/rtl/CONTROL.sv|
+!s90 -reportprogress|300|-work|work|C:/Lab2/assignment/rtl/CONTROL.sv|
+!i113 1
+Z8 o-work work
+Z9 tCvgOpt 0
+n@c@o@n@t@r@o@l
+vDMEMORY
+R1
+R2
+!i10b 1
+!s100 MOCEHSTVc2jT;l;8LCF:>3
+ImZ];MJfcYND^L6l5b<U2M0
+R3
+!s105 DMEMORY_sv_unit
+S1
+R0
+R4
+8C:/Lab2/assignment/rtl/DMEMORY.sv
+FC:/Lab2/assignment/rtl/DMEMORY.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Lab2/assignment/rtl/DMEMORY.sv|
+!s90 -reportprogress|300|-work|work|C:/Lab2/assignment/rtl/DMEMORY.sv|
+!i113 1
+R8
+R9
+n@d@m@e@m@o@r@y
+vEXECUTE
+R1
+R2
+!i10b 1
+!s100 iEX923@5L>T=8Gdk;@h_c1
+I65DAMdI^D3mLI[AWhWXjl3
+R3
+!s105 EXECUTE_sv_unit
+S1
+R0
+w1645397068
+8C:/Lab2/assignment/rtl/EXECUTE.sv
+FC:/Lab2/assignment/rtl/EXECUTE.sv
+L0 59
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Lab2/assignment/rtl/EXECUTE.sv|
+!s90 -reportprogress|300|-work|work|C:/Lab2/assignment/rtl/EXECUTE.sv|
+!i113 1
+R8
+R9
+n@e@x@e@c@u@t@e
+vFWD_CONT
+R1
+R2
+!i10b 1
+!s100 @?kOna884L@icj?;oC@AP1
+I5X2Q:2l1Qz^d2:2NfI>;I1
+R3
+!s105 FWD_CONT_sv_unit
+S1
+R0
+w1645305867
+8C:/Lab2/assignment/rtl/FWD_CONT.sv
+FC:/Lab2/assignment/rtl/FWD_CONT.sv
+Z10 L0 28
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Lab2/assignment/rtl/FWD_CONT.sv|
+!s90 -reportprogress|300|-work|work|C:/Lab2/assignment/rtl/FWD_CONT.sv|
+!i113 1
+R8
+R9
+n@f@w@d_@c@o@n@t
+vIDECODE
+R1
+R2
+!i10b 1
+!s100 @_6h2Q3h5J:cQzd>FMeED1
+I1=jUT@W2efS4djfXRMz5n3
+R3
+!s105 IDECODE_sv_unit
+S1
+R0
+w1645391171
+8C:/Lab2/assignment/rtl/IDECODE.sv
+FC:/Lab2/assignment/rtl/IDECODE.sv
+L0 40
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Lab2/assignment/rtl/IDECODE.sv|
+!s90 -reportprogress|300|-work|work|C:/Lab2/assignment/rtl/IDECODE.sv|
+!i113 1
+R8
+R9
+n@i@d@e@c@o@d@e
+vIFECTCH
+R1
+!s110 1645398969
+!i10b 1
+!s100 Z9DBTQ_k5V[=NkO;g_zg^0
+IfPDee@X5F_5^RhSV4b:2`1
+R3
+!s105 IFETCH_sv_unit
+S1
+R0
+w1645398961
+8C:/Lab2/assignment/rtl/IFETCH.sv
+FC:/Lab2/assignment/rtl/IFETCH.sv
+L0 33
+R6
+r1
+!s85 0
+31
+!s108 1645398969.000000
+!s107 C:/Lab2/assignment/rtl/IFETCH.sv|
+!s90 -reportprogress|300|-work|work|C:/Lab2/assignment/rtl/IFETCH.sv|
+!i113 1
+R8
+R9
+n@i@f@e@c@t@c@h
+vMIPS
+R1
+R2
+!i10b 1
+!s100 z^Rl2=;hh9TH4h@C0F<QF3
+I[VI2OXS[;C5QEg55TKKG`2
+R3
+!s105 MIPS_sv_unit
+S1
+R0
+w1645395427
+8C:/Lab2/assignment/rtl/MIPS.sv
+FC:/Lab2/assignment/rtl/MIPS.sv
+L0 39
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Lab2/assignment/rtl/MIPS.sv|
+!s90 -reportprogress|300|-work|work|C:/Lab2/assignment/rtl/MIPS.sv|
+!i113 1
+R8
+R9
+n@m@i@p@s
+vMIPS_pipelined_tb
+R1
+R2
+!i10b 1
+!s100 f?hJ0=Wj]Q8cKEFBmmK]Q0
+I5XG[USc0FL_n9YBKfbaTC3
+R3
+!s105 MIPS_tb_sv_unit
+S1
+R0
+R4
+8C:/Lab2/assignment/rtl/MIPS_tb.sv
+FC:/Lab2/assignment/rtl/MIPS_tb.sv
+L0 21
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Lab2/assignment/rtl/MIPS_tb.sv|
+!s90 -reportprogress|300|-work|work|C:/Lab2/assignment/rtl/MIPS_tb.sv|
+!i113 1
+R8
+R9
+n@m@i@p@s_pipelined_tb
+vSTALL_CONT
+R1
+Z11 !s110 1645398861
+!i10b 1
+!s100 kE:8JhV7lRJ3EmjTS@gd72
+IZBeAV<j8XDDAUY_]<aFko1
+R3
+!s105 STALL_CONT_sv_unit
+S1
+R0
+w1645304910
+8C:/Lab2/assignment/rtl/STALL_CONT.sv
+FC:/Lab2/assignment/rtl/STALL_CONT.sv
+R10
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Lab2/assignment/rtl/STALL_CONT.sv|
+!s90 -reportprogress|300|-work|work|C:/Lab2/assignment/rtl/STALL_CONT.sv|
+!i113 1
+R8
+R9
+n@s@t@a@l@l_@c@o@n@t
+vWRITE_BACK
+R1
+R11
+!i10b 1
+!s100 oBc>GBF5<EXA`o=m0XZdM0
+Icdz>SkSJZic>`][PdTf7N3
+R3
+!s105 WRITE_BACK_sv_unit
+S1
+R0
+R4
+8C:/Lab2/assignment/rtl/WRITE_BACK.sv
+FC:/Lab2/assignment/rtl/WRITE_BACK.sv
+L0 41
+R6
+r1
+!s85 0
+31
+!s108 1645398861.000000
+!s107 C:/Lab2/assignment/rtl/WRITE_BACK.sv|
+!s90 -reportprogress|300|-work|work|C:/Lab2/assignment/rtl/WRITE_BACK.sv|
+!i113 1
+R8
+R9
+n@w@r@i@t@e_@b@a@c@k
