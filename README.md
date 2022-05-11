@@ -1,1 +1,1 @@
-# ECE3058
+# ECE3058-Architecture, Systems, Concurrency and Energy in Computation
